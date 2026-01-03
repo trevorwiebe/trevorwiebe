@@ -1,9 +1,5 @@
-👋 Hi, I’m Trevor Wiebe. I'm an Android Developer, enthused to learn!
+I am an Android developer specializing in Kotlin, Jetpack Compose, MVVM and Android SDK. As the founding Android engineer at Stanza music, I'm able to take stakeholder ideas and turn them into quality android apps. [App on Google Play](https://play.google.com/store/apps/details?id=org.stanzamusic.stanza)
 
-I delved into the fascinating world of computer programming at the age of 13, with Ruby as my first language. I soon discovered Android Development, a revelation that enabled me to create any application I envisioned.  This was so exciting for me and settled me on a career path in programming!
+Recently, I've been interested in learning more about modern web development. In my off time, I've been creating websites with React. I've also been learning Python (FastApi) and Docker, in building a backend for my React app.
 
-You can read more about some of the projects I have worked on at my website: www.trevorwiebe.com
-
-For any inquiries or correspondence, you may contact me at tw@trevorwiebe.com.
-
-Thank you for visiting my profile.  
+You can find more information about me on my [LinkedIn](https://www.linkedin.com/in/trevor-wiebe/).
